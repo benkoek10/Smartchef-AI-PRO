@@ -1,0 +1,7 @@
+{
+  "name": "1: SmartChef AI Pro",
+  "description": "Een geavanceerde recepten-generator die je ingrediënten omzet in culinaire meesterwerken met behulp van Gemini AI, inclusief AI-gegenereerde afbeeldingen en een live spraak-assistent.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
